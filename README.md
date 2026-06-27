@@ -50,5 +50,8 @@ Simülasyon tamamlandığında, analiz sonuçları ekrana yazdırılacak ve yör
 🚧 Geliştirme Durumu (Work in Progress)
 Önemli Not: Bu proje şu anda aktif geliştirme aşamasındadır ve henüz tam stabil olarak çalışmamaktadır.
 Gezegensel ölçek ile galaktik ölçekteki kütleçekimsel kuvvetlerin (Karanlık Enerji, Sagittarius A* gibi) aynı anda simüle edilmesi oldukça karmaşık bir matematiksel altyapı gerektirmektedir. Bu nedenle simülasyonu çalıştırdığınızda bazı fiziksel sapmalar, performans darboğazları veya beklenmeyen hatalar (bug'lar) ile karşılaşabilirsiniz.
+Önemli Not: Bu oldukça eski bir projedir (legacy project) ve aktif olarak bakımı yapılmamaktadır. Yazıldığı dönemin standartlarını ve kütüphane sürümlerini yansıtmaktadır.
+
+Bununla birlikte, gezegensel ölçek ile galaktik ölçekteki kütleçekimsel kuvvetlerin (Karanlık Enerji, Sagittarius A* vb.) aynı anda simüle edilmesi gibi zorlu bir hedefi olduğundan, proje tam stabil olarak çalışmamaktadır. Simülasyonu çalıştırdığınızda bazı fiziksel sapmalar, performans darboğazları veya beklenmeyen hatalar (bug'lar) ile karşılaşabilirsiniz.
 
 Projenin temel amacı konsepti test etmek ve altyapıyı kurmaktır. Sorunları tespit eden veya algoritmaları iyileştirmek isteyen herkesin Pull Request (PR) katkılarına açığım!
